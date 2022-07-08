@@ -10,4 +10,5 @@ It includes Menu using GameStates, scores/points system and the player's keyboar
 ![Menu screenshot](img/Screenshot01_Menu.png?raw=true "Menu Screenshot")
 
 
+
 ![GamePlay Screenshot](https://raw.githubusercontent.com/sn0k3/SnakeGame/main/img/Screenshot02_Gameplay.png "GamePlay Screenshot")
